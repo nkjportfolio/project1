@@ -629,7 +629,7 @@ margin-top: 100px;}
 	#con_mn>.inner> ul>li>a> .arr{background-image: url(../images/arr_white.png);}
 	
 	
-	#main_txt>.txt_box{top: 250px; left: 80px;
+	#main_txt>.txt_box{top: 320px; right: 1%; left: 1%; margin: 0 auto;
 		width: 60%;
 	}
 	#main_txt>.txt_box>img{width: 20%;}
